@@ -1,6 +1,6 @@
 package com.harium.etyl.geometry.path.draw;
 
-import com.harium.etyl.core.graphics.Graphics;
+import com.harium.etyl.commons.graphics.Graphics;
 import com.harium.etyl.geometry.Point2D;
 import com.harium.etyl.geometry.curve.Curve;
 

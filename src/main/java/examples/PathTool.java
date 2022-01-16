@@ -7,7 +7,7 @@ import com.harium.etyl.commons.event.MouseEvent;
 import com.harium.etyl.commons.event.PointerEvent;
 import com.harium.etyl.commons.event.PointerState;
 import com.harium.etyl.commons.graphics.Color;
-import com.harium.etyl.core.graphics.Graphics;
+import com.harium.etyl.commons.graphics.Graphics;
 import com.harium.etyl.geometry.Path2D;
 import com.harium.etyl.geometry.Point2D;
 import com.harium.etyl.geometry.curve.CubicBezier;
